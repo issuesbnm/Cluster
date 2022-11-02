@@ -10,3 +10,4 @@ matplotlib==3.3.3
 gensim==3.8.3
 streamlit-tags
 streamlit-player
+tensorflow==2.5.0
