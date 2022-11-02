@@ -1,0 +1,12 @@
+streamlit
+malaya
+youtokentome
+pandas==1.2.3
+regex
+numpy==1.19.5
+nltk==3.5
+wordcloud==1.8.1
+matplotlib==3.3.3
+gensim==3.8.3
+streamlit-tags
+streamlit-player
